@@ -1,0 +1,37 @@
+.main{
+    height: 600px;
+    width: 100%;
+    background: silver;
+    border: 2px solid;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.nav{
+    background: green;
+    height: 70px;
+    width: 100%;
+ 
+
+}
+.nav h3{
+    color: white;
+}
+.left{
+    width: 30%;
+    height: 400px;
+    background: red;
+    float: left;
+}
+.right{
+    background: aqua;
+    height: 400px;
+    float: left;
+    width: 70%;
+
+}
+.footer{
+    background: yellow;
+    width: 100%;
+    height: 80px;
+    float: left;
+}
